@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afonso Faria</h1>
 <h3 align="center">A passionate backend developer from Portugal</h3>
-<img align="right" alt="Coding" width="400" src"https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC.gif">
+<img align="right" alt="Coding" width="480" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC.gif">
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 - 🔭 I’m currently working on **Python**
 
